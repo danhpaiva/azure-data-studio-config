@@ -1,8 +1,9 @@
 {
     "workbench.startupEditor": "newUntitledFile",
-    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontFamily": "JetBrains Mono, Cascadia Code",
     "editor.fontSize": 13,
     "editor.letterSpacing": 1.2,
     "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+    "telemetry.enableCrashReporter": false,
+    "editor.formatOnSave": true
 }

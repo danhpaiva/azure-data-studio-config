@@ -8,7 +8,7 @@
 ~~~
 Control + Shift + P
 ~~~
-- Search for: Open Settings(JSON)
+- Search for: **Open Settings(JSON)**
 - Copy the contents of the settings.json you downloaded and paste it into the file inside Azure Data Studio.
 
 <h3>🗛 Fonts</h3>

@@ -1,4 +1,6 @@
 {
+    //Theme
+    "workbench.colorTheme": "Default Dark Azure Data Studio",
     //Font
     "editor.fontFamily": "Cascadia Code, JetBrains Mono, Consolas",
     "editor.fontSize": 13,
@@ -12,7 +14,7 @@
     //Format the code whenever we save
     "editor.formatOnSave": true,
     //Always open a blank file  
-    "workbench.startupEditor": "newUntitledFile",
+    "workbench.startupEditor": "none",
     //Put the terminal on the right
     "workbench.panel.defaultLocation": "right",
     //Underlines the terminal cursor
@@ -24,5 +26,5 @@
     //Disable updates
     "update.enableWindowsBackgroundUpdates": false,
     "update.mode": "none",
-    "update.showReleaseNotes": false
+    "update.showReleaseNotes": false,
 }

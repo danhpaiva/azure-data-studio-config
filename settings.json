@@ -6,7 +6,7 @@
     "editor.fontSize": 13,
     "editor.letterSpacing": 1.2,
     "editor.lineHeight": 20,
-    "editor.fontLigatures": true,
+    "editor.fontLigatures": false,
     //Indentation
     "editor.tabSize": 2,
     //Applies a visual signal to the left of the selected line
@@ -26,5 +26,5 @@
     //Disable updates
     "update.enableWindowsBackgroundUpdates": false,
     "update.mode": "none",
-    "update.showReleaseNotes": false,
+    "update.showReleaseNotes": false
 }

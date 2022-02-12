@@ -1,28 +1,21 @@
 {
-    //Theme
-    "workbench.colorTheme": "Default Dark Azure Data Studio",
-    //Font
-    "editor.fontFamily": "Cascadia Code, Consolas",
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "JetBrains Mono, Cascadia Code",
     "editor.fontSize": 13,
     "editor.letterSpacing": 1.2,
     "editor.lineHeight": 20,
     "editor.fontLigatures": false,
-    //Indentation
     "editor.tabSize": 2,
-    //Applies a visual signal to the left of the selected line
     "editor.renderLineHighlight": "gutter",
-    //Format the code whenever we save
     "editor.formatOnSave": true,
-    //Always open a blank file  
-    "workbench.startupEditor": "none",
-    //Underlines the terminal cursor
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.fontSize": 14,
-    //Disable Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    //Disable updates
+    "workbench.colorTheme": "Default Dark Azure Data Studio",
+    "workbench.startupEditor": "none",
     "update.enableWindowsBackgroundUpdates": false,
     "update.mode": "none",
-    "update.showReleaseNotes": false
+    "update.showReleaseNotes": false,
+    "window.zoomLevel": 0
 }

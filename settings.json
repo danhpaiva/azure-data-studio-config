@@ -2,7 +2,7 @@
     //Theme
     "workbench.colorTheme": "Default Dark Azure Data Studio",
     //Font
-    "editor.fontFamily": "Cascadia Code, JetBrains Mono, Consolas",
+    "editor.fontFamily": "Cascadia Code, Consolas",
     "editor.fontSize": 13,
     "editor.letterSpacing": 1.2,
     "editor.lineHeight": 20,
@@ -15,8 +15,6 @@
     "editor.formatOnSave": true,
     //Always open a blank file  
     "workbench.startupEditor": "none",
-    //Put the terminal on the right
-    "workbench.panel.defaultLocation": "right",
     //Underlines the terminal cursor
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.fontSize": 14,

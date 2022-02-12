@@ -19,4 +19,6 @@
     "workbench.sideBar.location": "right",
     "workbench.colorTheme": "Default Dark Azure Data Studio",
     "workbench.startupEditor": "none",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": false
 }

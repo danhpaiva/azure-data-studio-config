@@ -1,16 +1,16 @@
 {
     "breadcrumbs.enabled": false,
-    "editor.fontFamily": "JetBrains Mono, Cascadia Code",
+    "editor.fontFamily": "JetBrains Mono NL, Cascadia Mono",
     "editor.fontSize": 13,
     "editor.letterSpacing": 1.2,
     "editor.lineHeight": 20,
-    "editor.fontLigatures": true,
+    "editor.fontLigatures": false,
     "editor.tabSize": 2,
     "editor.renderLineHighlight": "gutter",
     "editor.formatOnSave": true,
     "terminal.integrated.cursorStyle": "underline",
-    "terminal.integrated.fontFamily": "Cascadia Code, Consolas",
-    "resultsGrid.fontFamily": "Cascadia Code, Consolas",
+    "terminal.integrated.fontFamily": "JetBrains Mono NL, Cascadia Mono",
+    "resultsGrid.fontFamily": "JetBrains Mono NL, Cascadia Mono",
     "scm.inputFontFamily": "default",
     "terminal.integrated.fontSize": 14,
     "telemetry.enableCrashReporter": false,
@@ -23,6 +23,6 @@
     "workbench.colorTheme": "Default Dark Azure Data Studio",
     "workbench.startupEditor": "none",
     "workbench.activityBar.visible": true,
-    "workbench.statusBar.visible": true,
+    "workbench.statusBar.visible": false,
     "window.menuBarVisibility": "compact"
 }

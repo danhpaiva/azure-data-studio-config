@@ -12,19 +12,30 @@
     "terminal.integrated.fontFamily": "Cascadia Mono",
     "resultsGrid.fontFamily": "JetBrains Mono, Cascadia Mono",
     "resultsGrid.autoSizeColumns": true,
-    "resultsGrid.maxColumnWidth": 250,
+    "resultsGrid.maxColumnWidth": 200,
+    "resultsGrid.cellPadding": [
+        5,
+        8,
+        4
+    ],
     "scm.inputFontFamily": "default",
     "terminal.integrated.fontSize": 14,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
     "update.enableWindowsBackgroundUpdates": false,
     "update.mode": "none",
     "update.showReleaseNotes": false,
-    "window.zoomLevel": 0,
     "workbench.sideBar.location": "right",
     "workbench.colorTheme": "Default Dark Azure Data Studio",
     "workbench.startupEditor": "none",
     "workbench.activityBar.visible": true,
+    "workbench.colorCustomizations": {
+        "editor.background": "#191622",
+        "editor.foreground": "#E1E1E6",
+        "editorBracketHighlight.foreground1": "#E96379"
+    },
     "workbench.statusBar.visible": false,
-    "window.menuBarVisibility": "compact"
+    "window.menuBarVisibility": "compact",
+    "workbench.editorAssociations": {
+        "*.{sqlplan}": "workbench.editor.executionplan"
+    }
 }
